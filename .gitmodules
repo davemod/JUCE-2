@@ -1,3 +1,6 @@
 [submodule "juce-seminar-02-01-git"]
 	path = juce-seminar-02-01-git
 	url = https://github.com/davemod/juce-seminar-02-01-git
+[submodule "juce-seminar-02-02-parameters"]
+	path = juce-seminar-02-02-parameters
+	url = https://github.com/davemod/juce-seminar-02-02-parameters.git
