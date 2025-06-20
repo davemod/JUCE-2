@@ -4,3 +4,6 @@
 [submodule "juce-seminar-02-02-parameters"]
 	path = juce-seminar-02-02-parameters
 	url = https://github.com/davemod/juce-seminar-02-02-parameters.git
+[submodule "juce-seminar-02-03-ui-styling"]
+	path = juce-seminar-02-03-ui-styling
+	url = https://github.com/davemod/juce-seminar-02-03-ui-styling
