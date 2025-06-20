@@ -7,3 +7,6 @@
 [submodule "juce-seminar-02-03-ui-styling"]
 	path = juce-seminar-02-03-ui-styling
 	url = https://github.com/davemod/juce-seminar-02-03-ui-styling
+[submodule "juce-seminar-02-05-dsp"]
+	path = juce-seminar-02-05-dsp
+	url = https://github.com/davemod/juce-seminar-02-05-dsp
