@@ -13,3 +13,6 @@
 [submodule "juce-seminar-02-06-playhead"]
 	path = juce-seminar-02-06-playhead
 	url = https://github.com/davemod/juce-seminar-02-06-playhead
+[submodule "juce-seminar-02-07-meter"]
+	path = juce-seminar-02-07-meter
+	url = https://github.com/davemod/juce-seminar-02-07-meter
