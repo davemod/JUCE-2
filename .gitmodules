@@ -10,3 +10,6 @@
 [submodule "juce-seminar-02-05-dsp"]
 	path = juce-seminar-02-05-dsp
 	url = https://github.com/davemod/juce-seminar-02-05-dsp
+[submodule "juce-seminar-02-06-playhead"]
+	path = juce-seminar-02-06-playhead
+	url = https://github.com/davemod/juce-seminar-02-06-playhead
